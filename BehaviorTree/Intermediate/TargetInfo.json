@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BehaviorTree",
+			"Path": "..\\Source\\BehaviorTree.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BehaviorTreeEditor",
+			"Path": "..\\Source\\BehaviorTreeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BehaviorTree.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BehaviorTree.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BehaviorTreeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\shadertoolsconfig.json" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BehaviorTree">
+      <UniqueIdentifier>{B62357F6-EA50-39F1-B57C-A9ABDE293EF2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BehaviorTree\BehaviorTree.Build.cs">
+      <Filter>Source\BehaviorTree</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BehaviorTree\BehaviorTree.cpp">
+      <Filter>Source\BehaviorTree</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BehaviorTree\BehaviorTree.h">
+      <Filter>Source\BehaviorTree</Filter>
+    </ClCompile>
+    <Filter Include="Source\BehaviorTree\TP_ThirdPerson">
+      <UniqueIdentifier>{E2790A19-0AFD-3A01-92F7-D43ECD17523A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BehaviorTree\TP_ThirdPerson\TP_ThirdPerson.cpp">
+      <Filter>Source\BehaviorTree\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BehaviorTree\TP_ThirdPerson\TP_ThirdPerson.h">
+      <Filter>Source\BehaviorTree\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BehaviorTree\TP_ThirdPerson\TP_ThirdPersonCharacter.cpp">
+      <Filter>Source\BehaviorTree\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BehaviorTree\TP_ThirdPerson\TP_ThirdPersonCharacter.h">
+      <Filter>Source\BehaviorTree\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BehaviorTree\TP_ThirdPerson\TP_ThirdPersonGameMode.cpp">
+      <Filter>Source\BehaviorTree\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BehaviorTree\TP_ThirdPerson\TP_ThirdPersonGameMode.h">
+      <Filter>Source\BehaviorTree\TP_ThirdPerson</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\admin\\Documents\\Unreal Projects\\BehaviorTree\\BehaviorTree\\Source\\BehaviorTree\\BehaviorTree.Build.cs",
+		"C:\\Users\\admin\\Documents\\Unreal Projects\\BehaviorTree\\BehaviorTree\\Source\\BehaviorTree.Target.cs",
+		"C:\\Users\\admin\\Documents\\Unreal Projects\\BehaviorTree\\BehaviorTree\\Source\\BehaviorTreeEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
