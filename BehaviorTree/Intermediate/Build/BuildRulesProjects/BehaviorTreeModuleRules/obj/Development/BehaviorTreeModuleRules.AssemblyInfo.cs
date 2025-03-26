@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BehaviorTreeModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f2e6102b9155149fae3edb29fe11b22dd88689f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8b5145c0e7a5ef88f995b4131c554cfa576d9a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("BehaviorTreeModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BehaviorTreeModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
